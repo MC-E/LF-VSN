@@ -64,6 +64,10 @@ python test.py -opt options/train/train_LF-VSN_1video.yml
 ## 🤗 **Acknowledgements**
 This code is built on [MIM-VRN (PyTorch)](https://github.com/ding3820/MIMO-VRN). We thank the authors for sharing their codes of MPRNet.
 
+## :e-mail: Contact
+
+If you have any question, please email `eechongm@gmail.com`.
+
 ## **Citation**
 
 If you find our work helpful in your resarch or work, please cite the following paper.
