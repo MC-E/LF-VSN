@@ -40,6 +40,9 @@ The pre-trained models are available at:
 | Six video hiding        |       [Google Drive](https://drive.google.com/file/d/1dr-ZIL-VP0ol4fRO7bGZYQoxRetA-GXW/view?usp=share_link)                     | 
 | Seven video hiding        |       [Google Drive](https://drive.google.com/file/d/178cqpz_vS-mPlYwLuZP2qFc7pV7vrXrr/view?usp=share_link)                     | 
 
+## **Data Preparing**
+Please download the training and evaluation dataset from [Vimeo-90K](http://toflow.csail.mit.edu/).
+
 ## **Train**
 
 Training the desired model by changing the config file.
