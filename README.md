@@ -1,7 +1,7 @@
 # Large-capacity and Flexible Video Steganography via Invertible Neural Network (CVPR 2023)
 [Chong Mou](https://scholar.google.com.hk/citations?user=SYQoDk0AAAAJ&hl=en), Youmin Xu, Jiechong Song, [Chen Zhao](https://scholar.google.com/citations?hl=zh-CN&user=dUWdX5EAAAAJ), [Bernard Ghanem](https://www.bernardghanem.com/), [Jian Zhang](https://jianzhang.tech/)
 
-Official implementation of **[Large-capacity and Flexible Video Steganography via Invertible Neural Network]()**.
+Official implementation of **[Large-capacity and Flexible Video Steganography via Invertible Neural Network](https://arxiv.org/abs/2304.12300)**.
 
 ## **Introduction**
 <p align="center">
